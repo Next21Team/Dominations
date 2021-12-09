@@ -1,0 +1,15 @@
+[en]
+DOMINATION_DISCONNECT_ONE = ^1Player ^3%n ^1leaves the server, not avenged his executioner ^4%n
+DOMINATION_DISCONNECT_MULT = ^1Player ^3%n ^1leaves the server, not avenged his executioners:
+DOMINATION_ADD = ^1Player ^3%n ^1now dominates over the player ^4%n
+DOMINATION_KILL_A = ^1You killed your victim again ^3%n
+DOMINATION_KILL_V = ^1You were killed again by your executioner ^3%n
+DOMINATION_REVENGE = ^1Player ^3%n ^1avenged his abuser ^4%
+
+[ru]
+DOMINATION_DISCONNECT_ONE = ^1Игрок ^3%n ^1покидает сервер, не отомстив своему палачу ^4%n
+DOMINATION_DISCONNECT_MULT = ^1Игрок ^3%n ^1покидает сервер, не отомстив своим палачам:
+DOMINATION_ADD = ^1Игрок ^3%n ^1теперь доминирует над игроком ^4%n
+DOMINATION_KILL_A = ^1Вы снова убили свою жертву ^3%n
+DOMINATION_KILL_V = ^1Вас снова убил ваш палач ^3%n
+DOMINATION_REVENGE = ^1Игрок ^3%n ^1отомстил своему обидчику ^4%n
